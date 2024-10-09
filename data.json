@@ -1,4 +1,10 @@
 {
-    "textView": "Witaj! TESSST",
-    "textView13": "1.2v TESSTTT"
+    "scene1": {
+      "textView": "Witaj w EDUtracker!",
+      "textView13": "1.2v"
+    },
+    "scene2": {
+      "textView6": "PŁAN!",
+      "textView7": "PON"
+    }
   }
