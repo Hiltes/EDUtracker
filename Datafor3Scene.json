@@ -1,10 +1,10 @@
 {
-    "textViewHeaderScene3": "Plan Zajęć",
-    "textViewSecondHeaderScene3": "Wtorek",
-    "textViewText1Scene3":"11:45 - 13:15 LAB AiSD mg. Kosior S239 B1",
-    "textViewText2Scene3":"13:30 - 15:00 Wykład Sieci Komputerowe mgr. Szkoła (A) Rachunek prawdopodobieństwa i statystyka dr. Zaręba (B) S126 B1",
-    "textViewText3Scene3":"test",
-    "textViewText4Scene3":"test",
-    "textViewText5Scene3":"test",
-    "textViewText6Scene3":"test"
+    "textViewHeaderScene1": "Plan Zajęć",
+    "textViewSecondHeaderScene1": "Wtorek",
+    "textViewText1Scene1":"11:45 - 13:15 LAB AiSD mg. Kosior S239 B1",
+    "textViewText2Scene1":"13:30 - 15:00 Wykład Sieci Komputerowe mgr. Szkoła (A) Rachunek prawdopodobieństwa i statystyka dr. Zaręba (B) S126 B1",
+    "textViewText3Scene1":"test",
+    "textViewText4Scene1":"test",
+    "textViewText5Scene1":"test",
+    "textViewText6Scene1":"test"
 }

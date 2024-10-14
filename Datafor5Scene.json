@@ -1,10 +1,10 @@
 {
-    "textViewHeaderScene5": "Plan Zajęć",
-    "textViewSecondHeaderScene5": "Czwartek",
-    "textViewText1Scene5":"10:30 - 12:00 Angielski mgr. Michniewicz S 231 B1",
-    "textViewText2Scene5":"13:00 - 14:30 WF GR III Kasprowicza",
-    "textViewText3Scene5":"Zdalny przedmiot ogólnouczelniany według PDFa",
-    "textViewText4Scene5":"test",
-    "textViewText5Scene5":"test",
-    "textViewText6Scene5":"test"
+    "textViewHeaderScene1": "Plan Zajęć",
+    "textViewSecondHeaderScene1": "Czwartek",
+    "textViewText1Scene1":"10:30 - 12:00 Angielski mgr. Michniewicz S 231 B1",
+    "textViewText2Scene1":"13:00 - 14:30 WF GR III Kasprowicza",
+    "textViewText3Scene1":"Zdalny przedmiot ogólnouczelniany według PDFa",
+    "textViewText4Scene1":"test",
+    "textViewText5Scene1":"test",
+    "textViewText6Scene1":"test"
 }
