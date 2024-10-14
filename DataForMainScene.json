@@ -1,6 +1,10 @@
 {
-
-      "textView": "Witaj w EDUtracker!!!",
-      "textView13": "1.3v",
-      "textView14": "Witaj w mojej kuchni!"
+      "textViewHeaderScene1": "Witaj w EDUtracker!!!",
+      "textViewSecondHeaderScene1": "Witaj w mojej kuchni!",
+      "textViewText1Scene1":"test",
+      "textViewText2Scene1":"test",
+      "textViewText3Scene1":"test",
+      "textViewText4Scene1":"test",
+      "textViewText5Scene1":"test",
+      "textViewText6Scene1":"test"
 }
